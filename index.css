@@ -1,0 +1,33 @@
+body {
+    background-color: gray;
+}
+.lights {
+    width: 150px;
+    height: 470px;
+    border: 4px solid white;
+    background: white;
+    box-sizing: border-box;
+}
+.red {
+    width: 100%;
+    height: 150px;
+    background: red;
+    border: 10px solid darkred;
+    margin-bottom: 5px;
+    box-sizing: border-box;
+}
+.yellow {
+    width: 100%;
+    height: 150px;
+    background: yellow;
+    margin-bottom: 5px;
+    border: 10px solid darkgoldenrod;
+    box-sizing: border-box;
+}
+.green {
+    width: 100%;
+    height: 150px;
+    background: green;
+    border: 10px solid darkgreen;
+    box-sizing: border-box;
+}
