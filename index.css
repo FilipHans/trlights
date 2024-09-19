@@ -31,3 +31,21 @@ body {
     border: 10px solid darkgreen;
     box-sizing: border-box;
 }
+.red-sub {
+    background: lightcoral;
+    height: 50%;
+    width: 100%;
+    margin-top: 54%;
+}
+.yellow-sub {
+    background: rgb(181, 181, 149);
+    width:60px;
+    height: 60px;
+    margin: 70px 62px;
+}
+.green-sub{
+    background: rgb(112, 165, 110);
+    width:60px;
+    height: 60px;
+    margin: 70px 0px;
+}
